@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Talha Safa Küçük and currently, I am studying at Bilkent University. My department is Computer Science. I am from Manisa and for university, I am in Ankara after that. I am currently learning Java. In the past, I learned the basics of C#, C++ and Python. However, because I didn't have any time to improve them, I forgot mostly unfortunately.  
+I am Talha Safa Küçük and currently, I am a sophomore Computer Science student at Bilkent University. I am capable of using Java, C++, etc.
+My LinkedIn account: https://www.linkedin.com/in/talha-safa-kucuk/
